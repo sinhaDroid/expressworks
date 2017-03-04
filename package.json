@@ -1,0 +1,22 @@
+{
+  "name": "deepanshu",
+  "version": "1.0.0",
+  "description": "expressworks tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinhaDroid/expressworks.git"
+  },
+  "author": "deepansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinhaDroid/expressworks/issues"
+  },
+  "homepage": "https://github.com/sinhaDroid/expressworks#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
